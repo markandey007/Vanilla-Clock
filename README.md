@@ -1,2 +1,2 @@
-# Vanilla-Clock
-Made with html css js.
+# Open-ClockApp
+A simple clock app that is made using HTML, CSS and JS.
